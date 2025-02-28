@@ -1,18 +1,18 @@
 # usingcopilot
-# プロジェクト名
+# Project Title
 
-このプロジェクトが何をするものか、誰のためのものかを簡単に説明します。
+A brief description of what this project does and who it's for.
 
-## 目次
+## Table of Contents
 
-- [インストール](#インストール)
-- [使用方法](#使用方法)
-- [貢献方法](#貢献方法)
-- [ライセンス](#ライセンス)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## インストール
+## Installation
 
-プロジェクトのインストール方法についての指示。
+Instructions on how to install the project.
 
 ```bash
 pip install project-name
